@@ -1,0 +1,8 @@
+com\zqjy\service\OrderService.class
+com\zqjy\service\ReportService.class
+com\zqjy\service\UserService.class
+com\zqjy\service\CheckItemService.class
+com\zqjy\service\OrderSettingService.class
+com\zqjy\service\MemberService.class
+com\zqjy\service\CheckGroupService.class
+com\zqjy\service\SetmealService.class

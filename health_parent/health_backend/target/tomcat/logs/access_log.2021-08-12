@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:22:52:25 +0800] "GET /pages/main.html HTTP/1.1" 200 7460 http-bio-82-exec-2 72
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:22:52:25 +0800] "GET /plugins/elementui/index.css HTTP/1.1" 200 198714 http-bio-82-exec-3 8
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:22:52:25 +0800] "GET /plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 31004 http-bio-82-exec-1 12
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:22:52:25 +0800] "GET /css/style.css HTTP/1.1" 200 10588 http-bio-82-exec-4 18
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:22:52:25 +0800] "GET /img/logo.png HTTP/1.1" 200 6132 http-bio-82-exec-8 2
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:22:52:25 +0800] "GET /plugins/elementui/index.js HTTP/1.1" 200 494238 http-bio-82-exec-6 6
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:22:52:25 +0800] "GET /js/jquery.min.js HTTP/1.1" 200 86659 http-bio-82-exec-9 5
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:22:52:25 +0800] "GET /img/user2-160x160.jpg HTTP/1.1" 200 7070 http-bio-82-exec-10 5
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:22:52:25 +0800] "GET /js/vue.js HTTP/1.1" 200 300248 http-bio-82-exec-5 16
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:22:52:25 +0800] "GET /pages/ordersetting.html HTTP/1.1" 200 16222 http-bio-82-exec-7 22
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:22:52:25 +0800] "GET /plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 77160 http-bio-82-exec-7 17
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:22:52:26 +0800] "GET /plugins/elementui/fonts/element-icons.woff HTTP/1.1" 200 6164 http-bio-82-exec-7 2
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:22:52:26 +0800] "GET /css/orderset(1).css HTTP/1.1" 200 5592 http-bio-82-exec-7 2
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:22:52:26 +0800] "GET /js/axios-0.18.0.js HTTP/1.1" 200 12948 http-bio-82-exec-5 2
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:22:52:26 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-82-exec-7 4
+0:0:0:0:0:0:0:1 - - [12/Aug/2021:22:52:26 +0800] "GET /ordersetting/getOrderSettingByMonth.do?date=2021-8 HTTP/1.1" 200 737 http-bio-82-exec-5 202
